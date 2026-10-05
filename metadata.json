@@ -1,0 +1,6 @@
+{
+  "name": "TerraTaste — Living Map of Unshared Heirloom Recipes",
+  "description": "A global culinary cartography mapping hidden, never-before-shared local food discoveries, ancestral heirloom recipes, and whispered village techniques.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
